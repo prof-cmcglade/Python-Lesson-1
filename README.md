@@ -3,7 +3,7 @@ Your first brush with a powerful programming language that can help you tell ori
 
 Download the PPP loan data and the Jupyter notebook tutorial and follow along.
 
-Computers in the Cronkite building that have Anaconda: 
+<b>Computers in the Cronkite building that have Anaconda:</b> 
 
 -Room 318, computers 07 and 08 
 
